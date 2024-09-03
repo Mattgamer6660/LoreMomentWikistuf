@@ -1,8 +1,27 @@
-title: Just the Docs Template
+title: Lore Moment Wiki/Database!
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
+color_scheme: dark
+
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "Quick Join Link":
+    - "https://www.roblox.com/share?code=7eec4a47e032cd419191376b415e51e1&type=Server"
+
+aux_links_new_tab: true
+
+callouts:
+  warning:
+    title: [ WARNING ]
+    color: red
+  developing:
+    title: NOTICE
+    color: yellow
+  new:
+    title: NEW
+    color: green
+  updated:
+    title: UPDATED
+    color: blue
