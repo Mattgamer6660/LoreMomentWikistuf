@@ -247,6 +247,7 @@ Defeat T0RR3NT in your first battle with them.
 Defeat the ANTI PARABOT again.
 
 ### Wait, that isn't Sisyphus Prime!
+{: .no_toc }
 
 Defeat T0RR3NT again.
 
