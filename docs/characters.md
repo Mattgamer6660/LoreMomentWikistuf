@@ -4,16 +4,16 @@ nav_order: 3
 layout: default
 ---
 
-## This will have most of the information regarding the characters and the groups.
+# This will have most of the information regarding the characters and the groups.
 {: .no_toc }
 
 
 1. TOC
 {:toc}
 
-### The Fallen
+## The Fallen
 
-#### Denzel Polo
+### Denzel Polo
 
 Status: Alive?
 
@@ -23,7 +23,7 @@ Nicknames: Abyssal Hunter
 
 Family: Paradox? (Brother), Hazel (Son)
 
-#### Redcoat ???????
+### Redcoat ???????
 
 Status: Alive
 
@@ -33,7 +33,7 @@ Nicknames: British, Coat
 
 Family: DATA EXPUNDGED
 
-#### Bloodlust ???????
+### Bloodlust ???????
 
 Status: Alive
 
@@ -43,19 +43,9 @@ Nicknames: DATA EXPUNDGED
 
 Family: DATA EXPUNDGED
 
-### The Trio
+## The Trio
 
-#### Koraii ???????
-
-Status: Deceased, Soul Repaired
-
-Location: Grillby's Safe
-
-Nicknames: DATA EXPUNDGED
-
-Family: DATA EXPUNDGED
-
-#### Soria ???????
+### Koraii ???????
 
 Status: Deceased, Soul Repaired
 
@@ -65,7 +55,17 @@ Nicknames: DATA EXPUNDGED
 
 Family: DATA EXPUNDGED
 
-#### Chris ???????
+### Soria ???????
+
+Status: Deceased, Soul Repaired
+
+Location: Grillby's Safe
+
+Nicknames: DATA EXPUNDGED
+
+Family: DATA EXPUNDGED
+
+### Chris ???????
 
 Status: Alive, Missing
 
@@ -75,7 +75,7 @@ Nicknames: DATA EXPUNDGED
 
 Family: DATA EXPUNDGED
 
-#### Shurik ???????
+### Shurik ???????
 
 Status: Deceased
 
@@ -85,37 +85,37 @@ Nicknames: DATA EXPUNDGED
 
 Family: DATA EXPUNGED
 
-### The Corrupted
+## The Corrupted
 
-#### Glitch
+### Glitch
 
 Status: Unknown
 
 Location: Unknown
 
-#### Corruptor
+### Corruptor
 
 Status: Missing
 
 Location: Unknown
 
-### The Hivemind
+## The Hivemind
 
-#### Jake A. Lunatic
+### Jake A. Lunatic
 
 Status: Presumed Dead
 
 Location: Snowdin
 
-#### Parasite
+### Parasite
 
 Status: Everywhere.
 
 Location: Everyone.
 
-### The Corporations
+## The Corporations
 
-#### Bit
+### Bit
 
 Status: Alive
 
@@ -125,7 +125,7 @@ Nicknames: DATA EXPUNGED
 
 Family: DATA EXPUNGED
 
-#### ENZ0?, Chris?
+### ENZ0?, Chris?
 
 Status: Alive
 
@@ -135,7 +135,7 @@ Nicknames: DATA EXPUNGED
 
 Family: DATA EXPUNGED
 
-#### Damian ????????
+### Damian ????????
 
 Status: Alive
 
@@ -145,9 +145,9 @@ Nicknames: DATA EXPUNGED
 
 Family: DATA EXPUNGED
 
-### Lone Wolfs/Neutral
+## Lone Wolfs/Neutral
 
-#### Claire ???????
+### Claire ???????
 
 Status: Alive
 
