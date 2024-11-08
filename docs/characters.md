@@ -4,6 +4,9 @@ nav_order: 3
 layout: default
 ---
 
+{: .warning }
+All info is subject to change.
+
 # This will have most of the information regarding the characters and the groups.
 {: .no_toc }
 
