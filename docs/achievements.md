@@ -5,8 +5,7 @@ layout: default
 ---
 
 # Achievements.
-
-
+{: .no_toc }
 
 1. TOC
 {:toc}
