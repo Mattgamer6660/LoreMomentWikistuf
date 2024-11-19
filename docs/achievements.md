@@ -362,6 +362,11 @@ Encounter Kari for the first time.
 
 Cause Kari to flee from battle.
 
+### why.
+{: .no_toc }
+
+Encounter PARABOT ID:001.
+
 ### A Robots Last Stand.
 {: .no_toc }
 
@@ -376,11 +381,6 @@ Cause a enemy/battler to flee.
 {: .no_toc }
 
 Encounter Donut and Kari's father.
-
-### Intimidation Tactics.
-{: .no_toc }
-
-Cause a enemy/battler to flee.
 
 ### SMOKING KILLS YA BASTARD!
 {: .no_toc }
