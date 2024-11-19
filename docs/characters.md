@@ -182,6 +182,38 @@ Nicknames: DATA EXPUNGED
 
 Family: DATA EXPUNGED
 
+## The Star Glitchers
+
+### Donut ???????
+
+Status: Deceased, Soul in posession of Kari.
+
+Location: Star Glitcher Realm
+
+Nicknames: DATA EXPUNGED
+
+Family: Kari ??????? (Older Sister), ?????? (Father), ?????? (Mother)
+
+### Kari ???????
+
+Status: Alive, Protecting Donut's soul, Sanity lost.
+
+Location: Star Glitcher Realm
+
+Nicknames: DATA EXPUNGED
+
+Family: Donut ??????? (Younger Brother), ?????? (Father), ?????? (Mother)
+
+### The Shopkeeper
+
+Status: Alive
+
+Location: Star Glitcher Realm
+
+Nicknames: DATA EXPUNGED
+
+Family: DATA EXPUNGED
+
 ## Lone Wolfs/Neutral
 
 ### Claire ???????
@@ -193,3 +225,41 @@ Location: The Underground
 Nicknames: Vuri
 
 Family: Thomas (Father, Deceased), Claire ?????? (Mother, Deceased, named after)
+
+## Unknown Alliance
+
+### Joseph R. Eggstorm
+
+Status: Alive?, Missing.
+
+Location: Unknown
+
+Nicknames: DATA EXPUNGED
+
+Family: DATA EXPUNGED
+
+### PARABOT ID:001
+
+Status: Deceased
+
+Location: Unknown
+
+Created By: Bit
+
+### PARABOT ID:002
+
+Status: Alive
+
+Location: Unknown
+
+Created By: Bit
+
+### iforgotdogescharactername:sob:
+
+Status: Alive
+
+Location: Star Glitcher Realm
+
+Nicknames: DATA EXPUNGED
+
+Family: DATA EXPUNGED
