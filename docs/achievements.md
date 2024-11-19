@@ -477,6 +477,75 @@ Leave the underground once and for all.
 
 Find the lost page.
 
+## Alternative Universe: The City
+
+### Flying in the wind.
+{: .no_toc }
+
+Find the lost page.
+
+## Alternative Universe: The City Part 2
+
+### Undocumented
+{: .no_toc }
+
+Find the lost page in Site-73.
+
+### Classified
+{: .no_toc }
+
+Find the lost page in the ARK Outpost.
+
+## Alternative Universe: Ruins
+
+### Left Behind
+{: .no_toc }
+
+Find the lost page in the abandoned facility.
+
+## Alternative Universe: The Tundra
+
+### Classified Folders
+{: .no_toc }
+
+Find the lost page pieces in the folders in Jake A. Lunatic's Office
+
+### Restricted Research
+{: .no_toc }
+
+Find the lost page in the Lower Section of the Sector-C Magma Chamber
+
+## Alternative Universe: Aether
+
+### Puzzling Cabin
+{: .no_toc }
+
+Find the lost page tavern
+
+## Alternative Universe: The City: The Unknown
+
+### Redemption
+{: .no_toc }
+
+Find the lost pages in Facility of Redemption.
+
+## Alternative Universe: Secured Contained Protected.
+
+### The Tundra Part 2: Electric Boogaloo
+{: .no_toc }
+
+Find the Lost Page in the tundra of [REDACTED]
+
+### Secrets to uncover.
+{: .no_toc }
+
+Find the Lost Page in the depths of [REDACTED]
+
+### Like Clockwork
+{: .no_toc }
+
+Find the Lost Page in SCP-914's containment.
+
 ## Lore Moment: The Lost Pages
 
 ### Back to basics.
