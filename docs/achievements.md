@@ -273,3 +273,213 @@ Get sent to a different universe after defeating T0RR3NT.
 {: .no_toc }
 
 Get sent to Series 1 by T0RR3NT.
+
+## Series 4 Achievements
+
+### The Final Series.
+{: .no_toc }
+
+Begin "The City".
+
+### The Underground Laboratory.
+{: .no_toc }
+
+Locate Site 73.
+
+### ARKANE Outpost.
+{: .no_toc }
+
+Arrive at the ARK Outpost.
+
+### Fallen Down... again.
+{: .no_toc }
+
+Return to The Underground.
+
+### NOT AGAIN.
+{: .no_toc }
+
+Encounter Ori again.
+
+### A goofy friend.
+{: .no_toc }
+
+Encounter the fallen child.
+
+### FWUFFYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY.
+{: .no_toc }
+
+Have the fallen child have a piggy backride on ENZ0.
+
+### Puppets..
+{: .no_toc }
+
+~~Encounter the first G-.~~
+It's rude to talk about someone who's listening.
+
+### What a surprise..
+{: .no_toc }
+
+Become allies with Corruptor (Jake A. Lunatic)
+
+### Skill Issue.
+{: .no_toc }
+
+Have all members besides one person go down.
+
+### HOLY SHIT IS TAHT A BLOCK TALES REFERENCE?!?!?!
+{: .no_toc }
+
+Get a Calling Card for the first time.
+
+### Intimidation Tactics.
+{: .no_toc }
+
+Cause a enemy/battler to flee.
+
+### Skip x652.
+{: .no_toc }
+
+Use a mistakenly placed Master Key to unlock the next set of chapters.
+
+### DOLLA DOLLA BILLSSSS.
+{: .no_toc }
+
+[+ ENRAGE] the shopkeeper.
+
+### Eternal Flames.
+{: .no_toc }
+
+Cause Nick to lose his sanity.
+
+### HOLY SHIT IS THAT THE RED MIST?!?! x2
+{: .no_toc }
+
+Encounter Kari for the first time.
+
+### Sanity Loss.
+{: .no_toc }
+
+Cause Kari to flee from battle.
+
+### A Robots Last Stand.
+{: .no_toc }
+
+Have a final fight with PARABOT ID:001.
+
+### Intimidation Tactics.
+{: .no_toc }
+
+Cause a enemy/battler to flee.
+
+### This dude sounds familiar.
+{: .no_toc }
+
+Encounter Donut and Kari's father.
+
+### Intimidation Tactics.
+{: .no_toc }
+
+Cause a enemy/battler to flee.
+
+### SMOKING KILLS YA BASTARD!
+{: .no_toc }
+
+Cause Donut to begin to decay from combat over nick smoking.
+
+### No More Trumpets.
+{: .no_toc }
+
+Encounter a Confusionary Parasite/Inferno Parasite.
+
+### A Fatal Flaw.
+{: .no_toc }
+
+Kill Donut.
+
+### No More ~~dommymom-~~ Gebura.
+{: .no_toc }
+
+Kill Kari.
+
+### Childish Behavior.
+{: .no_toc }
+
+Cause the duo of children to attack someone (your fucked).
+
+### Sanity Restoration.
+{: .no_toc }
+
+Cause Kari to regain her sanity and bring donut back to life.
+
+### Burnt Donuts.
+{: .no_toc }
+
+Cause Donut to flee with Kari in a revenge fight.
+
+### The Sanctuary.
+{: .no_toc }
+
+Gain the ability to summon a portal to The Sanctuary.
+
+### This isn't the backrooms!
+{: .no_toc }
+
+Yes.
+
+### Oh. It IS the backrooms.
+{: .no_toc }
+
+Yes.
+
+### The return of a power tripping maniac.
+{: .no_toc }
+
+Find out that Donut and Kari's father is Shurik.
+
+### Blue Flame.
+{: .no_toc }
+
+Encounter the Inferno Parasites in the new Void.
+
+### Orion Reseach... no thats not right, THATS ORI!
+{: .no_toc }
+
+Encounter Ori in the new void being controlled by T0RR3NT.
+
+### The Guardians.
+{: .no_toc }
+
+Defeat all four Night Guardians.
+
+### Shurik 2: Electric Boogaloo.
+{: .no_toc }
+
+Fight Shurik for the final time..
+
+### T0RR3NT Stream Injector.
+{: .no_toc }
+
+Watch T0RR3NT kill Shurik and take his soul.
+
+### Freedom.
+{: .no_toc }
+
+Defeat T0RR3NT.
+
+### The end.
+{: .no_toc }
+
+Leave the underground once and for all.
+
+### ..?
+{: .no_toc }
+
+Find the lost page.
+
+## Lore Moment: The Lost Pages
+
+### Back to basics.
+{: .no_toc }
+
+Begin the first page.
