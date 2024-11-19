@@ -31,6 +31,8 @@ The Void is the home location of **Corruptor** in both Series 1 and Series 2.
 
 In Series 3, The Void is taken over by **T0RR3NT** and is ran by him instead after kicking **Corruptor** out and into The Underground.
 
+In Series 4, The Void gets a **forced** overhaul because of UTPR shi-
+
 #### Alternative Universes
 
 ##### The City
