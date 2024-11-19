@@ -18,27 +18,57 @@ All info is subject to change.
 
 ### Denzel Polo
 
-Status: Alive?
+Status: Alive
 
-Location: DATA EXPUNDGED
+Location: Star Glitcher Realm
 
 Nicknames: Abyssal Hunter
 
-Family: Paradox? (Brother), Hazel (Son)
+Family: Paradox? (Brother), Hazel Polo (Son)
+
+### Hazel Polo
+
+Status: Alive
+
+Location: Star Glitcher Realm
+
+Nicknames: DATA EXPUNDGED
+
+Family:  Denzel Polo (Father)
+
+### SD ID:261
+
+Status: Alive
+
+Location: Star Glitcher Realm
+
+Nicknames: Green?
+
+Family: DATA EXPUNDGED
 
 ### Redcoat ???????
 
 Status: Alive
 
-Location: DATA EXPUNDGED
+Location: Unknown
 
 Nicknames: British, Coat
 
-Family: DATA EXPUNDGED
+Family: Bacon (Son)
+
+### Bacon ???????
+
+Status: Alive
+
+Location: Star Glitcher Realm
+
+Nicknames: DATA EXPUNDGED
+
+Family: Redcoat (Father)
 
 ### Bloodlust ???????
 
-Status: Alive
+Status: Deceased.
 
 Location: DATA EXPUNDGED
 
@@ -70,7 +100,7 @@ Family: DATA EXPUNDGED
 
 ### Chris ???????
 
-Status: Alive, Missing
+Status: Unknown, Missing
 
 Location: Unknown
 
@@ -80,9 +110,9 @@ Family: DATA EXPUNDGED
 
 ### Shurik ???????
 
-Status: Deceased
+Status: Unknown
 
-Location: Haycee, Unknown
+Location: Star Glitcher Realm
 
 Nicknames: DATA EXPUNDGED
 
@@ -96,19 +126,13 @@ Status: Unknown
 
 Location: Unknown
 
-### Corruptor
+### Corruptor (Jake A. Lunatic)
 
-Status: Missing
+Status: Alive.
 
 Location: Unknown
 
 ## The Hivemind
-
-### Jake A. Lunatic
-
-Status: Presumed Dead
-
-Location: Snowdin
 
 ### Parasite
 
@@ -132,7 +156,7 @@ Family: DATA EXPUNGED
 
 Status: Alive
 
-Location: DATA EXPUNGED
+Location: Star Glitcher Realm
 
 Nicknames: DATA EXPUNGED
 
@@ -148,14 +172,24 @@ Nicknames: DATA EXPUNGED
 
 Family: DATA EXPUNGED
 
+### Nick ????????
+
+Status: Alive
+
+Location: Star Glitcher Realm
+
+Nicknames: DATA EXPUNGED
+
+Family: DATA EXPUNGED
+
 ## Lone Wolfs/Neutral
 
 ### Claire ???????
 
 Status: Alive
 
-Location: The City
+Location: The Underground
 
-Nicknames: DATA EXPUNGED
+Nicknames: Vuri
 
-Family: DATA EXPUNGED
+Family: Thomas (Father, Deceased), Claire ?????? (Mother, Deceased, named after)
