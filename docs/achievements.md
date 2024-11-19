@@ -4,8 +4,8 @@ nav_order: 4
 layout: default
 ---
 
-{: .warning }
-All info is subject to change.
+{: .updated }
+This page has been updated.
 
 # Achievements.
 {: .no_toc }
