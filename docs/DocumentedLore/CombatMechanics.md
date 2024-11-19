@@ -68,14 +68,25 @@ Soul decay is nearly impossible to recover from as it completly drains all life 
 ## Common Phrases
 
 DT: Determination
+
 ATK: Attack
+
 DEF: Defense
+
 HP: Health/Hit Points
+
 Dodge HP/DHP: Dodge Health/Dodge Hit Points
+
 Soul: The culmination of your very being.
+
 Debuffs: Negitive effects to Bosses
+
 Buffs: Possitive effects to Bosses
+
 LOA: Last One Alive
+
 MIA: Missing In Action
+
 DNI: Do Not Interact
+
 KIA: Killed In Action
