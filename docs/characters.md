@@ -18,7 +18,7 @@ layout: default
 
 Status: Alive
 
-Location: Star Glitcher Realm
+Location: yeah
 
 Nicknames: Abyssal Hunter
 
@@ -28,7 +28,7 @@ Family: Paradox? (Brother), Hazel Polo (Son)
 
 Status: Alive
 
-Location: Star Glitcher Realm
+Location: yeah
 
 Nicknames: DATA EXPUNDGED
 
@@ -38,7 +38,7 @@ Family:  Denzel Polo (Father)
 
 Status: Alive
 
-Location: Star Glitcher Realm
+Location: yeah
 
 Nicknames: Green?
 
@@ -48,7 +48,7 @@ Family: DATA EXPUNDGED
 
 Status: Alive
 
-Location: Unknown
+Location: yeah
 
 Nicknames: British, Coat
 
@@ -58,7 +58,7 @@ Family: Bacon (Son)
 
 Status: Alive
 
-Location: Star Glitcher Realm
+Location: yeah
 
 Nicknames: DATA EXPUNDGED
 
@@ -66,7 +66,7 @@ Family: Redcoat (Father)
 
 ### Bloodlust ???????
 
-Status: Deceased.
+Status: ERROR
 
 Location: DATA EXPUNDGED
 
@@ -252,11 +252,11 @@ Location: Unknown
 
 Created By: Bit
 
-### iforgotdogescharactername:sob:
+### Jack
 
 Status: Alive
 
-Location: Star Glitcher Realm
+Location: Unknown
 
 Nicknames: DATA EXPUNGED
 
