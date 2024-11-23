@@ -2,7 +2,7 @@
 title: Combat Mechanics
 layout: default
 nav_order: 7
-parent: Lore Landing
+parent: In-Game Information
 has_toc: true
 ---
 
