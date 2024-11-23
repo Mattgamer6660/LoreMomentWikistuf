@@ -4,8 +4,6 @@ nav_order: 3
 layout: default
 ---
 
-{: .updated }
-This page has been updated.
 
 # This will have most of the information regarding the characters and the groups.
 {: .no_toc }
