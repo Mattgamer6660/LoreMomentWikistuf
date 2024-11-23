@@ -14,6 +14,6 @@ This page is new.
 1. TOC
 {:toc}
 
-# totally not a rickroll :3
-[Link button](https://www.youtube.com/watch?v=xvFZjo5PgG0){: .btn }
+### Abyssal Hunter's Theme - "Treasures Within The Abomination" - Terraria Calamity Mod OST
+[Link button](https://www.youtube.com/watch?v=e3t_dbLaw-M){: .btn }
 
