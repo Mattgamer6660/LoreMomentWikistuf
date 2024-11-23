@@ -301,7 +301,7 @@ This page has been updated.
 
 [OST Link](https://www.youtube.com/watch?v=d6QvGzK7pzU){: .btn }
 
-## Feelings untold~. Spinning our own versions of the past~. - "The Finale Fight.." - ***T0RR3NT PHASE 1***
+## Feelings untold~. Spinning our own versions of the past~. - "The Final Fight.." - ***T0RR3NT PHASE 1***
 
 ### "Hatred (REMIX) - Block Tales" - molniexx
 {: .no_toc }
