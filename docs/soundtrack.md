@@ -7,4 +7,10 @@ layout: default
 {: .new }
 This page is new.
 
-yeah i ran out of ideas lol
+# Soundtracks will only include L.O.A. themes at the moment, too lazy to actually get all the songs.
+{: .no_toc }
+
+
+1. TOC
+{:toc}
+
