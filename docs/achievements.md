@@ -4,9 +4,6 @@ nav_order: 4
 layout: default
 ---
 
-{: .updated }
-This page has been updated.
-
 # Achievements.
 {: .no_toc }
 
