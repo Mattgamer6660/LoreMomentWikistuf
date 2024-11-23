@@ -15,5 +15,5 @@ This page is new.
 {:toc}
 
 # totally not a rickroll :3
-[Link button](https://just-the-docs.com](https://www.youtube.com/watch?v=xvFZjo5PgG0)){: .btn }
+[Link button](https://www.youtube.com/watch?v=xvFZjo5PgG0){: .btn }
 
