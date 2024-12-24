@@ -285,3 +285,17 @@ Nicknames: Citsitua, Blueberry (what.)
 Allies: Jake A. Lunatic, Snowi
 
 Enemies: Nick, Joseph R. Eggstorm
+
+### Rebel ???????
+
+Status: Alive
+
+Location: Snowdin
+
+Nicknames: DATA EXPUNGED
+
+Family: [REDACTED]
+
+Allies: DATA EXPUNGED
+
+Enemies: DATA EXPUNGED
