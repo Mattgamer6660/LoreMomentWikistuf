@@ -261,3 +261,27 @@ Location: Unknown
 Nicknames: DATA EXPUNGED
 
 Family: DATA EXPUNGED
+
+### Experiment #156 - "Codename: Snowi"
+
+Status: Alive
+
+Location: Snowdin
+
+Nicknames: Snowi, Lunatic (for some fucking reason)
+
+Allies: Jake A. Lunatic, Citsitua
+
+Enemies: SD ID:261, Nick
+
+### Citsitua F. Reign
+
+Status: Alive
+
+Location: Snowdin
+
+Nicknames: Citsitua, Blueberry (what.)
+
+Allies: Jake A. Lunatic, Snowi
+
+Enemies: Nick, Joseph R. Eggstorm
