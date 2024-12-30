@@ -286,16 +286,16 @@ Allies: Jake A. Lunatic, Snowi
 
 Enemies: Nick, Joseph R. Eggstorm
 
-### Rebel ???????
+### [FILE CORRUPTED]
 
-Status: Alive
+Status: [ERROR]
 
-Location: Snowdin
+Location: [ERROR]
 
-Nicknames: DATA EXPUNGED
+Nicknames: [ERROR]
 
-Family: [REDACTED]
+Family: [ERROR]
 
-Allies: DATA EXPUNGED
+Allies: [ERROR]
 
-Enemies: DATA EXPUNGED
+Enemies: [ERROR]
