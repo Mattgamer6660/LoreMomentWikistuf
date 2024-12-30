@@ -262,13 +262,13 @@ Nicknames: DATA EXPUNGED
 
 Family: DATA EXPUNGED
 
-### Experiment #156 - "Codename: Snowi"
+### ~~Experiment #156 - "Codename: Snowi"~~ Emilia A. Lunatic
 
-Status: Alive
+Status: Alive, Missing
 
-Location: Snowdin
+Location: Unknown
 
-Nicknames: Snowi, Lunatic (for some fucking reason)
+Nicknames: [DATA CORRUPTED]
 
 Allies: Jake A. Lunatic, Citsitua
 
