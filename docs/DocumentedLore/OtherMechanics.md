@@ -6,9 +6,6 @@ parent: In-Game Information
 has_toc: true
 ---
 
-{: .new }
-This page is new.
-
 # Mechanics.
 {: .no_toc }
 
