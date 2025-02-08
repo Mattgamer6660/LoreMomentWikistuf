@@ -18,4 +18,4 @@ Status: goober
 
 Appearance:
 
-![](../../assets/blitzandjake.png)
+![](assets/blitzandjake.png)
