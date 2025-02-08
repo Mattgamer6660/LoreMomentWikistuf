@@ -4,9 +4,6 @@ nav_order: 5
 layout: default
 ---
 
-{: .new }
-This page is new.
-
 {: .updated }
 This page has been updated.
 
