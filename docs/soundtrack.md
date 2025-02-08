@@ -16,6 +16,13 @@ This page has been updated.
 
 # L.O.A. Themes
 
+## Rivalry Theme
+
+### "Meet Your Making." - Forsaken Dev Team
+{: .no_toc }
+
+[OST Link](https://www.youtube.com/watch?v=jKQFYSEU7-w){: .btn }
+
 ## Abyssal Hunter's Theme
 
 ### "Treasures Within The Abomination" - DM Dokuro
@@ -88,24 +95,38 @@ This page has been updated.
 
 ## Claire's Theme
 
-### "Through Patches of Violet" - Mili
+### "At Ends" - Marzuku
 {: .no_toc }
 
-[OST Link](https://www.youtube.com/watch?v=G_JfKOjwzwo){: .btn }
+[OST Link](https://www.youtube.com/watch?v=NILcwgwHEEs){: .btn }
 
-## Corruptor/Jake A. Lunatic's Theme
+## Emilia A. Lunatic's Theme
 
-### "CHALLENGER - GODPAINS" - FPLester
+### "Young Girl A" - siinamota
 {: .no_toc }
 
-[OST Link](https://www.youtube.com/watch?v=wU2GioPUyNM){: .btn }
+[OST Link](https://www.youtube.com/watch?v=AqI97zHMoQw){: .btn }
 
-## Corruptor/Jake A. Lunatic's NEW Theme
+## Jake A. Lunatic's Theme
 
-### "Bubonic Plant - Block Tales" - Campyfire
+### "BITE ME - Normal Pitch" - AJ Dispirito
 {: .no_toc }
 
-[OST Link](https://www.youtube.com/watch?v=RY18X10m77U){: .btn }
+[OST Link](https://www.youtube.com/watch?v=IdzB_pkV_Xc){: .btn }
+
+## Blitz's Theme
+
+### "PENTAGRAM | GUEST 666 THEME | TRUD OST" - Whestlys
+{: .no_toc }
+
+[OST Link](https://www.youtube.com/watch?v=JHtLgFLR5h8){: .btn }
+
+## Blitz's Theme
+
+### "PENTAGRAM | GUEST 666 THEME | TRUD OST" - Whestlys
+{: .no_toc }
+
+[OST Link](https://www.youtube.com/watch?v=JHtLgFLR5h8){: .btn }
 
 ## Bacon's Theme
 
